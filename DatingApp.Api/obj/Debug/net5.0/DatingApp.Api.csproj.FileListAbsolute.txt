@@ -1,0 +1,300 @@
+D:\ALEX\SEMESTRE 9\SERVICIOS WEB\repos\DatingApp\DatingApp.Api\bin\Debug\net5.0\appsettings.Development.json
+D:\ALEX\SEMESTRE 9\SERVICIOS WEB\repos\DatingApp\DatingApp.Api\bin\Debug\net5.0\appsettings.json
+D:\ALEX\SEMESTRE 9\SERVICIOS WEB\repos\DatingApp\DatingApp.Api\bin\Debug\net5.0\Data\UserSeedData.json
+D:\ALEX\SEMESTRE 9\SERVICIOS WEB\repos\DatingApp\DatingApp.Api\bin\Debug\net5.0\DatingApp.Api.exe
+D:\ALEX\SEMESTRE 9\SERVICIOS WEB\repos\DatingApp\DatingApp.Api\bin\Debug\net5.0\DatingApp.Api.deps.json
+D:\ALEX\SEMESTRE 9\SERVICIOS WEB\repos\DatingApp\DatingApp.Api\bin\Debug\net5.0\DatingApp.Api.runtimeconfig.json
+D:\ALEX\SEMESTRE 9\SERVICIOS WEB\repos\DatingApp\DatingApp.Api\bin\Debug\net5.0\DatingApp.Api.runtimeconfig.dev.json
+D:\ALEX\SEMESTRE 9\SERVICIOS WEB\repos\DatingApp\DatingApp.Api\bin\Debug\net5.0\DatingApp.Api.dll
+D:\ALEX\SEMESTRE 9\SERVICIOS WEB\repos\DatingApp\DatingApp.Api\bin\Debug\net5.0\ref\DatingApp.Api.dll
+D:\ALEX\SEMESTRE 9\SERVICIOS WEB\repos\DatingApp\DatingApp.Api\bin\Debug\net5.0\DatingApp.Api.pdb
+D:\ALEX\SEMESTRE 9\SERVICIOS WEB\repos\DatingApp\DatingApp.Api\bin\Debug\net5.0\AutoMapper.dll
+D:\ALEX\SEMESTRE 9\SERVICIOS WEB\repos\DatingApp\DatingApp.Api\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\ALEX\SEMESTRE 9\SERVICIOS WEB\repos\DatingApp\DatingApp.Api\bin\Debug\net5.0\CloudinaryDotNet.dll
+D:\ALEX\SEMESTRE 9\SERVICIOS WEB\repos\DatingApp\DatingApp.Api\bin\Debug\net5.0\Humanizer.dll
+D:\ALEX\SEMESTRE 9\SERVICIOS WEB\repos\DatingApp\DatingApp.Api\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\ALEX\SEMESTRE 9\SERVICIOS WEB\repos\DatingApp\DatingApp.Api\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\ALEX\SEMESTRE 9\SERVICIOS WEB\repos\DatingApp\DatingApp.Api\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\ALEX\SEMESTRE 9\SERVICIOS WEB\repos\DatingApp\DatingApp.Api\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\ALEX\SEMESTRE 9\SERVICIOS WEB\repos\DatingApp\DatingApp.Api\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+D:\ALEX\SEMESTRE 9\SERVICIOS WEB\repos\DatingApp\DatingApp.Api\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\ALEX\SEMESTRE 9\SERVICIOS WEB\repos\DatingApp\DatingApp.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\ALEX\SEMESTRE 9\SERVICIOS WEB\repos\DatingApp\DatingApp.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ALEX\SEMESTRE 9\SERVICIOS WEB\repos\DatingApp\DatingApp.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\ALEX\SEMESTRE 9\SERVICIOS WEB\repos\DatingApp\DatingApp.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ALEX\SEMESTRE 9\SERVICIOS WEB\repos\DatingApp\DatingApp.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\ALEX\SEMESTRE 9\SERVICIOS WEB\repos\DatingApp\DatingApp.Api\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\ALEX\SEMESTRE 9\SERVICIOS WEB\repos\DatingApp\DatingApp.Api\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\ALEX\SEMESTRE 9\SERVICIOS WEB\repos\DatingApp\DatingApp.Api\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\ALEX\SEMESTRE 9\SERVICIOS WEB\repos\DatingApp\DatingApp.Api\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\ALEX\SEMESTRE 9\SERVICIOS WEB\repos\DatingApp\DatingApp.Api\bin\Debug\net5.0\Microsoft.Extensions.WebEncoders.dll
+D:\ALEX\SEMESTRE 9\SERVICIOS WEB\repos\DatingApp\DatingApp.Api\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ALEX\SEMESTRE 9\SERVICIOS WEB\repos\DatingApp\DatingApp.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\ALEX\SEMESTRE 9\SERVICIOS WEB\repos\DatingApp\DatingApp.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\ALEX\SEMESTRE 9\SERVICIOS WEB\repos\DatingApp\DatingApp.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ALEX\SEMESTRE 9\SERVICIOS WEB\repos\DatingApp\DatingApp.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\ALEX\SEMESTRE 9\SERVICIOS WEB\repos\DatingApp\DatingApp.Api\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\ALEX\SEMESTRE 9\SERVICIOS WEB\repos\DatingApp\DatingApp.Api\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\ALEX\SEMESTRE 9\SERVICIOS WEB\repos\DatingApp\DatingApp.Api\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+D:\ALEX\SEMESTRE 9\SERVICIOS WEB\repos\DatingApp\DatingApp.Api\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+D:\ALEX\SEMESTRE 9\SERVICIOS WEB\repos\DatingApp\DatingApp.Api\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+D:\ALEX\SEMESTRE 9\SERVICIOS WEB\repos\DatingApp\DatingApp.Api\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\ALEX\SEMESTRE 9\SERVICIOS WEB\repos\DatingApp\DatingApp.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\ALEX\SEMESTRE 9\SERVICIOS WEB\repos\DatingApp\DatingApp.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\ALEX\SEMESTRE 9\SERVICIOS WEB\repos\DatingApp\DatingApp.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\ALEX\SEMESTRE 9\SERVICIOS WEB\repos\DatingApp\DatingApp.Api\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\ALEX\SEMESTRE 9\SERVICIOS WEB\repos\DatingApp\DatingApp.Api\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\ALEX\SEMESTRE 9\SERVICIOS WEB\repos\DatingApp\DatingApp.Api\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\ALEX\SEMESTRE 9\SERVICIOS WEB\repos\DatingApp\DatingApp.Api\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\ALEX\SEMESTRE 9\SERVICIOS WEB\repos\DatingApp\DatingApp.Api\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\ALEX\SEMESTRE 9\SERVICIOS WEB\repos\DatingApp\DatingApp.Api\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\ALEX\SEMESTRE 9\SERVICIOS WEB\repos\DatingApp\DatingApp.Api\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\ALEX\SEMESTRE 9\SERVICIOS WEB\repos\DatingApp\DatingApp.Api\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\ALEX\SEMESTRE 9\SERVICIOS WEB\repos\DatingApp\DatingApp.Api\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\ALEX\SEMESTRE 9\SERVICIOS WEB\repos\DatingApp\DatingApp.Api\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\ALEX\SEMESTRE 9\SERVICIOS WEB\repos\DatingApp\DatingApp.Api\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\ALEX\SEMESTRE 9\SERVICIOS WEB\repos\DatingApp\DatingApp.Api\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\ALEX\SEMESTRE 9\SERVICIOS WEB\repos\DatingApp\DatingApp.Api\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\ALEX\SEMESTRE 9\SERVICIOS WEB\repos\DatingApp\DatingApp.Api\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\ALEX\SEMESTRE 9\SERVICIOS WEB\repos\DatingApp\DatingApp.Api\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\ALEX\SEMESTRE 9\SERVICIOS WEB\repos\DatingApp\DatingApp.Api\obj\Debug\net5.0\DatingApp.Api.csproj.AssemblyReference.cache
+D:\ALEX\SEMESTRE 9\SERVICIOS WEB\repos\DatingApp\DatingApp.Api\obj\Debug\net5.0\DatingApp.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\ALEX\SEMESTRE 9\SERVICIOS WEB\repos\DatingApp\DatingApp.Api\obj\Debug\net5.0\DatingApp.Api.AssemblyInfoInputs.cache
+D:\ALEX\SEMESTRE 9\SERVICIOS WEB\repos\DatingApp\DatingApp.Api\obj\Debug\net5.0\DatingApp.Api.AssemblyInfo.cs
+D:\ALEX\SEMESTRE 9\SERVICIOS WEB\repos\DatingApp\DatingApp.Api\obj\Debug\net5.0\DatingApp.Api.csproj.CoreCompileInputs.cache
+D:\ALEX\SEMESTRE 9\SERVICIOS WEB\repos\DatingApp\DatingApp.Api\obj\Debug\net5.0\DatingApp.Api.MvcApplicationPartsAssemblyInfo.cs
+D:\ALEX\SEMESTRE 9\SERVICIOS WEB\repos\DatingApp\DatingApp.Api\obj\Debug\net5.0\DatingApp.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\ALEX\SEMESTRE 9\SERVICIOS WEB\repos\DatingApp\DatingApp.Api\obj\Debug\net5.0\staticwebassets\DatingApp.Api.StaticWebAssets.Manifest.cache
+D:\ALEX\SEMESTRE 9\SERVICIOS WEB\repos\DatingApp\DatingApp.Api\obj\Debug\net5.0\staticwebassets\DatingApp.Api.StaticWebAssets.xml
+D:\ALEX\SEMESTRE 9\SERVICIOS WEB\repos\DatingApp\DatingApp.Api\obj\Debug\net5.0\scopedcss\bundle\DatingApp.Api.styles.css
+D:\ALEX\SEMESTRE 9\SERVICIOS WEB\repos\DatingApp\DatingApp.Api\obj\Debug\net5.0\DatingApp.Api.RazorTargetAssemblyInfo.cache
+D:\ALEX\SEMESTRE 9\SERVICIOS WEB\repos\DatingApp\DatingApp.Api\obj\Debug\net5.0\DatingApp.Api.csproj.CopyComplete
+D:\ALEX\SEMESTRE 9\SERVICIOS WEB\repos\DatingApp\DatingApp.Api\obj\Debug\net5.0\DatingApp.Api.dll
+D:\ALEX\SEMESTRE 9\SERVICIOS WEB\repos\DatingApp\DatingApp.Api\obj\Debug\net5.0\ref\DatingApp.Api.dll
+D:\ALEX\SEMESTRE 9\SERVICIOS WEB\repos\DatingApp\DatingApp.Api\obj\Debug\net5.0\DatingApp.Api.pdb
+D:\ALEX\SEMESTRE 9\SERVICIOS WEB\repos\DatingApp\DatingApp.Api\obj\Debug\net5.0\DatingApp.Api.genruntimeconfig.cache
+C:\Users\resid\Desktop\DatingAppUaa-main\DatingApp.Api\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\resid\Desktop\DatingAppUaa-main\DatingApp.Api\bin\Debug\net5.0\appsettings.json
+C:\Users\resid\Desktop\DatingAppUaa-main\DatingApp.Api\bin\Debug\net5.0\Data\UserSeedData.json
+C:\Users\resid\Desktop\DatingAppUaa-main\DatingApp.Api\bin\Debug\net5.0\DatingApp.Api.exe
+C:\Users\resid\Desktop\DatingAppUaa-main\DatingApp.Api\bin\Debug\net5.0\DatingApp.Api.deps.json
+C:\Users\resid\Desktop\DatingAppUaa-main\DatingApp.Api\bin\Debug\net5.0\DatingApp.Api.runtimeconfig.json
+C:\Users\resid\Desktop\DatingAppUaa-main\DatingApp.Api\bin\Debug\net5.0\DatingApp.Api.runtimeconfig.dev.json
+C:\Users\resid\Desktop\DatingAppUaa-main\DatingApp.Api\bin\Debug\net5.0\DatingApp.Api.dll
+C:\Users\resid\Desktop\DatingAppUaa-main\DatingApp.Api\bin\Debug\net5.0\ref\DatingApp.Api.dll
+C:\Users\resid\Desktop\DatingAppUaa-main\DatingApp.Api\bin\Debug\net5.0\DatingApp.Api.pdb
+C:\Users\resid\Desktop\DatingAppUaa-main\DatingApp.Api\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\resid\Desktop\DatingAppUaa-main\DatingApp.Api\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\resid\Desktop\DatingAppUaa-main\DatingApp.Api\bin\Debug\net5.0\CloudinaryDotNet.dll
+C:\Users\resid\Desktop\DatingAppUaa-main\DatingApp.Api\bin\Debug\net5.0\Humanizer.dll
+C:\Users\resid\Desktop\DatingAppUaa-main\DatingApp.Api\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\resid\Desktop\DatingAppUaa-main\DatingApp.Api\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\resid\Desktop\DatingAppUaa-main\DatingApp.Api\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\resid\Desktop\DatingAppUaa-main\DatingApp.Api\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\resid\Desktop\DatingAppUaa-main\DatingApp.Api\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+C:\Users\resid\Desktop\DatingAppUaa-main\DatingApp.Api\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\resid\Desktop\DatingAppUaa-main\DatingApp.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\resid\Desktop\DatingAppUaa-main\DatingApp.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\resid\Desktop\DatingAppUaa-main\DatingApp.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\resid\Desktop\DatingAppUaa-main\DatingApp.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\resid\Desktop\DatingAppUaa-main\DatingApp.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\resid\Desktop\DatingAppUaa-main\DatingApp.Api\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\resid\Desktop\DatingAppUaa-main\DatingApp.Api\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\resid\Desktop\DatingAppUaa-main\DatingApp.Api\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\resid\Desktop\DatingAppUaa-main\DatingApp.Api\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\resid\Desktop\DatingAppUaa-main\DatingApp.Api\bin\Debug\net5.0\Microsoft.Extensions.WebEncoders.dll
+C:\Users\resid\Desktop\DatingAppUaa-main\DatingApp.Api\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\resid\Desktop\DatingAppUaa-main\DatingApp.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\resid\Desktop\DatingAppUaa-main\DatingApp.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\resid\Desktop\DatingAppUaa-main\DatingApp.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\resid\Desktop\DatingAppUaa-main\DatingApp.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\resid\Desktop\DatingAppUaa-main\DatingApp.Api\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\resid\Desktop\DatingAppUaa-main\DatingApp.Api\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\resid\Desktop\DatingAppUaa-main\DatingApp.Api\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\resid\Desktop\DatingAppUaa-main\DatingApp.Api\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+C:\Users\resid\Desktop\DatingAppUaa-main\DatingApp.Api\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+C:\Users\resid\Desktop\DatingAppUaa-main\DatingApp.Api\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\resid\Desktop\DatingAppUaa-main\DatingApp.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\resid\Desktop\DatingAppUaa-main\DatingApp.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\resid\Desktop\DatingAppUaa-main\DatingApp.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\resid\Desktop\DatingAppUaa-main\DatingApp.Api\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\resid\Desktop\DatingAppUaa-main\DatingApp.Api\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\resid\Desktop\DatingAppUaa-main\DatingApp.Api\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\resid\Desktop\DatingAppUaa-main\DatingApp.Api\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\resid\Desktop\DatingAppUaa-main\DatingApp.Api\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\resid\Desktop\DatingAppUaa-main\DatingApp.Api\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\resid\Desktop\DatingAppUaa-main\DatingApp.Api\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\resid\Desktop\DatingAppUaa-main\DatingApp.Api\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\resid\Desktop\DatingAppUaa-main\DatingApp.Api\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\resid\Desktop\DatingAppUaa-main\DatingApp.Api\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\resid\Desktop\DatingAppUaa-main\DatingApp.Api\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\resid\Desktop\DatingAppUaa-main\DatingApp.Api\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\resid\Desktop\DatingAppUaa-main\DatingApp.Api\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\resid\Desktop\DatingAppUaa-main\DatingApp.Api\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\resid\Desktop\DatingAppUaa-main\DatingApp.Api\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\resid\Desktop\DatingAppUaa-main\DatingApp.Api\obj\Debug\net5.0\DatingApp.Api.csproj.AssemblyReference.cache
+C:\Users\resid\Desktop\DatingAppUaa-main\DatingApp.Api\obj\Debug\net5.0\DatingApp.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\resid\Desktop\DatingAppUaa-main\DatingApp.Api\obj\Debug\net5.0\DatingApp.Api.AssemblyInfoInputs.cache
+C:\Users\resid\Desktop\DatingAppUaa-main\DatingApp.Api\obj\Debug\net5.0\DatingApp.Api.AssemblyInfo.cs
+C:\Users\resid\Desktop\DatingAppUaa-main\DatingApp.Api\obj\Debug\net5.0\DatingApp.Api.csproj.CoreCompileInputs.cache
+C:\Users\resid\Desktop\DatingAppUaa-main\DatingApp.Api\obj\Debug\net5.0\DatingApp.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\resid\Desktop\DatingAppUaa-main\DatingApp.Api\obj\Debug\net5.0\DatingApp.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\resid\Desktop\DatingAppUaa-main\DatingApp.Api\obj\Debug\net5.0\staticwebassets\DatingApp.Api.StaticWebAssets.Manifest.cache
+C:\Users\resid\Desktop\DatingAppUaa-main\DatingApp.Api\obj\Debug\net5.0\staticwebassets\DatingApp.Api.StaticWebAssets.xml
+C:\Users\resid\Desktop\DatingAppUaa-main\DatingApp.Api\obj\Debug\net5.0\scopedcss\bundle\DatingApp.Api.styles.css
+C:\Users\resid\Desktop\DatingAppUaa-main\DatingApp.Api\obj\Debug\net5.0\DatingApp.Api.RazorTargetAssemblyInfo.cache
+C:\Users\resid\Desktop\DatingAppUaa-main\DatingApp.Api\obj\Debug\net5.0\DatingApp.Api.csproj.CopyComplete
+C:\Users\resid\Desktop\DatingAppUaa-main\DatingApp.Api\obj\Debug\net5.0\DatingApp.Api.dll
+C:\Users\resid\Desktop\DatingAppUaa-main\DatingApp.Api\obj\Debug\net5.0\ref\DatingApp.Api.dll
+C:\Users\resid\Desktop\DatingAppUaa-main\DatingApp.Api\obj\Debug\net5.0\DatingApp.Api.pdb
+C:\Users\resid\Desktop\DatingAppUaa-main\DatingApp.Api\obj\Debug\net5.0\DatingApp.Api.genruntimeconfig.cache
+G:\Clases en linea\PARCIAL 1\1 - SERVICIOS WEB\practica api\DatingAppUaa-main\DatingApp.Api\bin\Debug\net5.0\appsettings.Development.json
+G:\Clases en linea\PARCIAL 1\1 - SERVICIOS WEB\practica api\DatingAppUaa-main\DatingApp.Api\bin\Debug\net5.0\appsettings.json
+G:\Clases en linea\PARCIAL 1\1 - SERVICIOS WEB\practica api\DatingAppUaa-main\DatingApp.Api\bin\Debug\net5.0\Data\UserSeedData.json
+G:\Clases en linea\PARCIAL 1\1 - SERVICIOS WEB\practica api\DatingAppUaa-main\DatingApp.Api\bin\Debug\net5.0\DatingApp.Api.exe
+G:\Clases en linea\PARCIAL 1\1 - SERVICIOS WEB\practica api\DatingAppUaa-main\DatingApp.Api\bin\Debug\net5.0\DatingApp.Api.deps.json
+G:\Clases en linea\PARCIAL 1\1 - SERVICIOS WEB\practica api\DatingAppUaa-main\DatingApp.Api\bin\Debug\net5.0\DatingApp.Api.runtimeconfig.json
+G:\Clases en linea\PARCIAL 1\1 - SERVICIOS WEB\practica api\DatingAppUaa-main\DatingApp.Api\bin\Debug\net5.0\DatingApp.Api.runtimeconfig.dev.json
+G:\Clases en linea\PARCIAL 1\1 - SERVICIOS WEB\practica api\DatingAppUaa-main\DatingApp.Api\bin\Debug\net5.0\DatingApp.Api.dll
+G:\Clases en linea\PARCIAL 1\1 - SERVICIOS WEB\practica api\DatingAppUaa-main\DatingApp.Api\bin\Debug\net5.0\ref\DatingApp.Api.dll
+G:\Clases en linea\PARCIAL 1\1 - SERVICIOS WEB\practica api\DatingAppUaa-main\DatingApp.Api\bin\Debug\net5.0\DatingApp.Api.pdb
+G:\Clases en linea\PARCIAL 1\1 - SERVICIOS WEB\practica api\DatingAppUaa-main\DatingApp.Api\bin\Debug\net5.0\AutoMapper.dll
+G:\Clases en linea\PARCIAL 1\1 - SERVICIOS WEB\practica api\DatingAppUaa-main\DatingApp.Api\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+G:\Clases en linea\PARCIAL 1\1 - SERVICIOS WEB\practica api\DatingAppUaa-main\DatingApp.Api\bin\Debug\net5.0\CloudinaryDotNet.dll
+G:\Clases en linea\PARCIAL 1\1 - SERVICIOS WEB\practica api\DatingAppUaa-main\DatingApp.Api\bin\Debug\net5.0\Humanizer.dll
+G:\Clases en linea\PARCIAL 1\1 - SERVICIOS WEB\practica api\DatingAppUaa-main\DatingApp.Api\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+G:\Clases en linea\PARCIAL 1\1 - SERVICIOS WEB\practica api\DatingAppUaa-main\DatingApp.Api\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+G:\Clases en linea\PARCIAL 1\1 - SERVICIOS WEB\practica api\DatingAppUaa-main\DatingApp.Api\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+G:\Clases en linea\PARCIAL 1\1 - SERVICIOS WEB\practica api\DatingAppUaa-main\DatingApp.Api\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+G:\Clases en linea\PARCIAL 1\1 - SERVICIOS WEB\practica api\DatingAppUaa-main\DatingApp.Api\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+G:\Clases en linea\PARCIAL 1\1 - SERVICIOS WEB\practica api\DatingAppUaa-main\DatingApp.Api\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+G:\Clases en linea\PARCIAL 1\1 - SERVICIOS WEB\practica api\DatingAppUaa-main\DatingApp.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+G:\Clases en linea\PARCIAL 1\1 - SERVICIOS WEB\practica api\DatingAppUaa-main\DatingApp.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\Clases en linea\PARCIAL 1\1 - SERVICIOS WEB\practica api\DatingAppUaa-main\DatingApp.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+G:\Clases en linea\PARCIAL 1\1 - SERVICIOS WEB\practica api\DatingAppUaa-main\DatingApp.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+G:\Clases en linea\PARCIAL 1\1 - SERVICIOS WEB\practica api\DatingAppUaa-main\DatingApp.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+G:\Clases en linea\PARCIAL 1\1 - SERVICIOS WEB\practica api\DatingAppUaa-main\DatingApp.Api\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+G:\Clases en linea\PARCIAL 1\1 - SERVICIOS WEB\practica api\DatingAppUaa-main\DatingApp.Api\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+G:\Clases en linea\PARCIAL 1\1 - SERVICIOS WEB\practica api\DatingAppUaa-main\DatingApp.Api\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+G:\Clases en linea\PARCIAL 1\1 - SERVICIOS WEB\practica api\DatingAppUaa-main\DatingApp.Api\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+G:\Clases en linea\PARCIAL 1\1 - SERVICIOS WEB\practica api\DatingAppUaa-main\DatingApp.Api\bin\Debug\net5.0\Microsoft.Extensions.WebEncoders.dll
+G:\Clases en linea\PARCIAL 1\1 - SERVICIOS WEB\practica api\DatingAppUaa-main\DatingApp.Api\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\Clases en linea\PARCIAL 1\1 - SERVICIOS WEB\practica api\DatingAppUaa-main\DatingApp.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+G:\Clases en linea\PARCIAL 1\1 - SERVICIOS WEB\practica api\DatingAppUaa-main\DatingApp.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+G:\Clases en linea\PARCIAL 1\1 - SERVICIOS WEB\practica api\DatingAppUaa-main\DatingApp.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\Clases en linea\PARCIAL 1\1 - SERVICIOS WEB\practica api\DatingAppUaa-main\DatingApp.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+G:\Clases en linea\PARCIAL 1\1 - SERVICIOS WEB\practica api\DatingAppUaa-main\DatingApp.Api\bin\Debug\net5.0\Microsoft.OpenApi.dll
+G:\Clases en linea\PARCIAL 1\1 - SERVICIOS WEB\practica api\DatingAppUaa-main\DatingApp.Api\bin\Debug\net5.0\Newtonsoft.Json.dll
+G:\Clases en linea\PARCIAL 1\1 - SERVICIOS WEB\practica api\DatingAppUaa-main\DatingApp.Api\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+G:\Clases en linea\PARCIAL 1\1 - SERVICIOS WEB\practica api\DatingAppUaa-main\DatingApp.Api\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+G:\Clases en linea\PARCIAL 1\1 - SERVICIOS WEB\practica api\DatingAppUaa-main\DatingApp.Api\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+G:\Clases en linea\PARCIAL 1\1 - SERVICIOS WEB\practica api\DatingAppUaa-main\DatingApp.Api\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+G:\Clases en linea\PARCIAL 1\1 - SERVICIOS WEB\practica api\DatingAppUaa-main\DatingApp.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+G:\Clases en linea\PARCIAL 1\1 - SERVICIOS WEB\practica api\DatingAppUaa-main\DatingApp.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+G:\Clases en linea\PARCIAL 1\1 - SERVICIOS WEB\practica api\DatingAppUaa-main\DatingApp.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+G:\Clases en linea\PARCIAL 1\1 - SERVICIOS WEB\practica api\DatingAppUaa-main\DatingApp.Api\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+G:\Clases en linea\PARCIAL 1\1 - SERVICIOS WEB\practica api\DatingAppUaa-main\DatingApp.Api\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+G:\Clases en linea\PARCIAL 1\1 - SERVICIOS WEB\practica api\DatingAppUaa-main\DatingApp.Api\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+G:\Clases en linea\PARCIAL 1\1 - SERVICIOS WEB\practica api\DatingAppUaa-main\DatingApp.Api\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+G:\Clases en linea\PARCIAL 1\1 - SERVICIOS WEB\practica api\DatingAppUaa-main\DatingApp.Api\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+G:\Clases en linea\PARCIAL 1\1 - SERVICIOS WEB\practica api\DatingAppUaa-main\DatingApp.Api\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+G:\Clases en linea\PARCIAL 1\1 - SERVICIOS WEB\practica api\DatingAppUaa-main\DatingApp.Api\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+G:\Clases en linea\PARCIAL 1\1 - SERVICIOS WEB\practica api\DatingAppUaa-main\DatingApp.Api\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+G:\Clases en linea\PARCIAL 1\1 - SERVICIOS WEB\practica api\DatingAppUaa-main\DatingApp.Api\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+G:\Clases en linea\PARCIAL 1\1 - SERVICIOS WEB\practica api\DatingAppUaa-main\DatingApp.Api\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+G:\Clases en linea\PARCIAL 1\1 - SERVICIOS WEB\practica api\DatingAppUaa-main\DatingApp.Api\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+G:\Clases en linea\PARCIAL 1\1 - SERVICIOS WEB\practica api\DatingAppUaa-main\DatingApp.Api\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+G:\Clases en linea\PARCIAL 1\1 - SERVICIOS WEB\practica api\DatingAppUaa-main\DatingApp.Api\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+G:\Clases en linea\PARCIAL 1\1 - SERVICIOS WEB\practica api\DatingAppUaa-main\DatingApp.Api\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+G:\Clases en linea\PARCIAL 1\1 - SERVICIOS WEB\practica api\DatingAppUaa-main\DatingApp.Api\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+G:\Clases en linea\PARCIAL 1\1 - SERVICIOS WEB\practica api\DatingAppUaa-main\DatingApp.Api\obj\Debug\net5.0\DatingApp.Api.csproj.AssemblyReference.cache
+G:\Clases en linea\PARCIAL 1\1 - SERVICIOS WEB\practica api\DatingAppUaa-main\DatingApp.Api\obj\Debug\net5.0\DatingApp.Api.GeneratedMSBuildEditorConfig.editorconfig
+G:\Clases en linea\PARCIAL 1\1 - SERVICIOS WEB\practica api\DatingAppUaa-main\DatingApp.Api\obj\Debug\net5.0\DatingApp.Api.AssemblyInfoInputs.cache
+G:\Clases en linea\PARCIAL 1\1 - SERVICIOS WEB\practica api\DatingAppUaa-main\DatingApp.Api\obj\Debug\net5.0\DatingApp.Api.AssemblyInfo.cs
+G:\Clases en linea\PARCIAL 1\1 - SERVICIOS WEB\practica api\DatingAppUaa-main\DatingApp.Api\obj\Debug\net5.0\DatingApp.Api.csproj.CoreCompileInputs.cache
+G:\Clases en linea\PARCIAL 1\1 - SERVICIOS WEB\practica api\DatingAppUaa-main\DatingApp.Api\obj\Debug\net5.0\DatingApp.Api.MvcApplicationPartsAssemblyInfo.cs
+G:\Clases en linea\PARCIAL 1\1 - SERVICIOS WEB\practica api\DatingAppUaa-main\DatingApp.Api\obj\Debug\net5.0\DatingApp.Api.MvcApplicationPartsAssemblyInfo.cache
+G:\Clases en linea\PARCIAL 1\1 - SERVICIOS WEB\practica api\DatingAppUaa-main\DatingApp.Api\obj\Debug\net5.0\staticwebassets\DatingApp.Api.StaticWebAssets.Manifest.cache
+G:\Clases en linea\PARCIAL 1\1 - SERVICIOS WEB\practica api\DatingAppUaa-main\DatingApp.Api\obj\Debug\net5.0\staticwebassets\DatingApp.Api.StaticWebAssets.xml
+G:\Clases en linea\PARCIAL 1\1 - SERVICIOS WEB\practica api\DatingAppUaa-main\DatingApp.Api\obj\Debug\net5.0\scopedcss\bundle\DatingApp.Api.styles.css
+G:\Clases en linea\PARCIAL 1\1 - SERVICIOS WEB\practica api\DatingAppUaa-main\DatingApp.Api\obj\Debug\net5.0\DatingApp.Api.RazorTargetAssemblyInfo.cache
+G:\Clases en linea\PARCIAL 1\1 - SERVICIOS WEB\practica api\DatingAppUaa-main\DatingApp.Api\obj\Debug\net5.0\DatingApp.Api.csproj.CopyComplete
+G:\Clases en linea\PARCIAL 1\1 - SERVICIOS WEB\practica api\DatingAppUaa-main\DatingApp.Api\obj\Debug\net5.0\DatingApp.Api.dll
+G:\Clases en linea\PARCIAL 1\1 - SERVICIOS WEB\practica api\DatingAppUaa-main\DatingApp.Api\obj\Debug\net5.0\ref\DatingApp.Api.dll
+G:\Clases en linea\PARCIAL 1\1 - SERVICIOS WEB\practica api\DatingAppUaa-main\DatingApp.Api\obj\Debug\net5.0\DatingApp.Api.pdb
+G:\Clases en linea\PARCIAL 1\1 - SERVICIOS WEB\practica api\DatingAppUaa-main\DatingApp.Api\obj\Debug\net5.0\DatingApp.Api.genruntimeconfig.cache
+F:\noveno semestre\servicios\dating\DatingApp.Api\bin\Debug\net5.0\appsettings.Development.json
+F:\noveno semestre\servicios\dating\DatingApp.Api\bin\Debug\net5.0\appsettings.json
+F:\noveno semestre\servicios\dating\DatingApp.Api\bin\Debug\net5.0\Data\UserSeedData.json
+F:\noveno semestre\servicios\dating\DatingApp.Api\bin\Debug\net5.0\DatingApp.Api.exe
+F:\noveno semestre\servicios\dating\DatingApp.Api\bin\Debug\net5.0\DatingApp.Api.deps.json
+F:\noveno semestre\servicios\dating\DatingApp.Api\bin\Debug\net5.0\DatingApp.Api.runtimeconfig.json
+F:\noveno semestre\servicios\dating\DatingApp.Api\bin\Debug\net5.0\DatingApp.Api.runtimeconfig.dev.json
+F:\noveno semestre\servicios\dating\DatingApp.Api\bin\Debug\net5.0\DatingApp.Api.dll
+F:\noveno semestre\servicios\dating\DatingApp.Api\bin\Debug\net5.0\ref\DatingApp.Api.dll
+F:\noveno semestre\servicios\dating\DatingApp.Api\bin\Debug\net5.0\DatingApp.Api.pdb
+F:\noveno semestre\servicios\dating\DatingApp.Api\bin\Debug\net5.0\AutoMapper.dll
+F:\noveno semestre\servicios\dating\DatingApp.Api\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+F:\noveno semestre\servicios\dating\DatingApp.Api\bin\Debug\net5.0\CloudinaryDotNet.dll
+F:\noveno semestre\servicios\dating\DatingApp.Api\bin\Debug\net5.0\Humanizer.dll
+F:\noveno semestre\servicios\dating\DatingApp.Api\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\noveno semestre\servicios\dating\DatingApp.Api\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+F:\noveno semestre\servicios\dating\DatingApp.Api\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+F:\noveno semestre\servicios\dating\DatingApp.Api\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+F:\noveno semestre\servicios\dating\DatingApp.Api\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+F:\noveno semestre\servicios\dating\DatingApp.Api\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+F:\noveno semestre\servicios\dating\DatingApp.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+F:\noveno semestre\servicios\dating\DatingApp.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\noveno semestre\servicios\dating\DatingApp.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\noveno semestre\servicios\dating\DatingApp.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\noveno semestre\servicios\dating\DatingApp.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+F:\noveno semestre\servicios\dating\DatingApp.Api\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+F:\noveno semestre\servicios\dating\DatingApp.Api\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+F:\noveno semestre\servicios\dating\DatingApp.Api\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+F:\noveno semestre\servicios\dating\DatingApp.Api\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+F:\noveno semestre\servicios\dating\DatingApp.Api\bin\Debug\net5.0\Microsoft.Extensions.WebEncoders.dll
+F:\noveno semestre\servicios\dating\DatingApp.Api\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\noveno semestre\servicios\dating\DatingApp.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+F:\noveno semestre\servicios\dating\DatingApp.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+F:\noveno semestre\servicios\dating\DatingApp.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\noveno semestre\servicios\dating\DatingApp.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+F:\noveno semestre\servicios\dating\DatingApp.Api\bin\Debug\net5.0\Microsoft.OpenApi.dll
+F:\noveno semestre\servicios\dating\DatingApp.Api\bin\Debug\net5.0\Newtonsoft.Json.dll
+F:\noveno semestre\servicios\dating\DatingApp.Api\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+F:\noveno semestre\servicios\dating\DatingApp.Api\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+F:\noveno semestre\servicios\dating\DatingApp.Api\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+F:\noveno semestre\servicios\dating\DatingApp.Api\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+F:\noveno semestre\servicios\dating\DatingApp.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\noveno semestre\servicios\dating\DatingApp.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\noveno semestre\servicios\dating\DatingApp.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\noveno semestre\servicios\dating\DatingApp.Api\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+F:\noveno semestre\servicios\dating\DatingApp.Api\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+F:\noveno semestre\servicios\dating\DatingApp.Api\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+F:\noveno semestre\servicios\dating\DatingApp.Api\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+F:\noveno semestre\servicios\dating\DatingApp.Api\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+F:\noveno semestre\servicios\dating\DatingApp.Api\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+F:\noveno semestre\servicios\dating\DatingApp.Api\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+F:\noveno semestre\servicios\dating\DatingApp.Api\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+F:\noveno semestre\servicios\dating\DatingApp.Api\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+F:\noveno semestre\servicios\dating\DatingApp.Api\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+F:\noveno semestre\servicios\dating\DatingApp.Api\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+F:\noveno semestre\servicios\dating\DatingApp.Api\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+F:\noveno semestre\servicios\dating\DatingApp.Api\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+F:\noveno semestre\servicios\dating\DatingApp.Api\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+F:\noveno semestre\servicios\dating\DatingApp.Api\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+F:\noveno semestre\servicios\dating\DatingApp.Api\obj\Debug\net5.0\DatingApp.Api.csproj.AssemblyReference.cache
+F:\noveno semestre\servicios\dating\DatingApp.Api\obj\Debug\net5.0\DatingApp.Api.GeneratedMSBuildEditorConfig.editorconfig
+F:\noveno semestre\servicios\dating\DatingApp.Api\obj\Debug\net5.0\DatingApp.Api.AssemblyInfoInputs.cache
+F:\noveno semestre\servicios\dating\DatingApp.Api\obj\Debug\net5.0\DatingApp.Api.AssemblyInfo.cs
+F:\noveno semestre\servicios\dating\DatingApp.Api\obj\Debug\net5.0\DatingApp.Api.csproj.CoreCompileInputs.cache
+F:\noveno semestre\servicios\dating\DatingApp.Api\obj\Debug\net5.0\DatingApp.Api.MvcApplicationPartsAssemblyInfo.cs
+F:\noveno semestre\servicios\dating\DatingApp.Api\obj\Debug\net5.0\DatingApp.Api.MvcApplicationPartsAssemblyInfo.cache
+F:\noveno semestre\servicios\dating\DatingApp.Api\obj\Debug\net5.0\staticwebassets\DatingApp.Api.StaticWebAssets.Manifest.cache
+F:\noveno semestre\servicios\dating\DatingApp.Api\obj\Debug\net5.0\staticwebassets\DatingApp.Api.StaticWebAssets.xml
+F:\noveno semestre\servicios\dating\DatingApp.Api\obj\Debug\net5.0\scopedcss\bundle\DatingApp.Api.styles.css
+F:\noveno semestre\servicios\dating\DatingApp.Api\obj\Debug\net5.0\DatingApp.Api.RazorTargetAssemblyInfo.cache
+F:\noveno semestre\servicios\dating\DatingApp.Api\obj\Debug\net5.0\DatingApp.Api.csproj.CopyComplete
+F:\noveno semestre\servicios\dating\DatingApp.Api\obj\Debug\net5.0\DatingApp.Api.dll
+F:\noveno semestre\servicios\dating\DatingApp.Api\obj\Debug\net5.0\ref\DatingApp.Api.dll
+F:\noveno semestre\servicios\dating\DatingApp.Api\obj\Debug\net5.0\DatingApp.Api.pdb
+F:\noveno semestre\servicios\dating\DatingApp.Api\obj\Debug\net5.0\DatingApp.Api.genruntimeconfig.cache
